@@ -1,6 +1,7 @@
-# text-summarization-2
-![Illustration-of-Extractive-MultiDocument-Summarization](https://user-images.githubusercontent.com/77840111/182500275-3f40c966-7bc8-45d6-974f-8ae39da9abcf.png)
-
+# Text summarization 2
+![Illustration-of-Extractive-MultiDocument-Summarization](https://user-images.githubusercontent.com/77840111/182500275-3f40c966-7bc8-45d6-974f-8ae39da9abcf.png)  
+  
+### **In this project we will be using a pretrained model to generate a summary from a big chunk of text.**
 ## Requirements
 - [transformers](https://pytorch.org/hub/huggingface_pytorch-transformers/)
 - os
